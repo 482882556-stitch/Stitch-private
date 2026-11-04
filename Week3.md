@@ -60,3 +60,20 @@ Expected outcome: The updated text shows without formatting errors, and the repo
 
 AI Disclosure
 This assignment is drafted with AI assistance. All style rules, revision reasoning and final content are reviewed and confirmed by myself. The source text is based on the class README editing clinic material and my GitHub repository task.
+
+Controlled-language Exercise
+Original sentence: "Carry out the removal of the cover and subsequently inspect the cable."
+
+Requirements:
+1. Use a direct verb.
+2. Give each action its own step.
+3. This is practice, not a full STE compliance check.
+
+Revised steps:
+1. Remove the cover.
+2. Inspect the cable.
+
+Explanation:
+Replace the wordy nominal phrase "carry out the removal of" with the direct verb "remove".
+Split the two actions into separate numbered steps to show sequence clearly.
+Remove the redundant adverb "subsequently", because numbered steps imply order.
